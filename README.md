@@ -23,3 +23,6 @@ API RESTful para gestionar experiencias laborales en una hoja de vida.
 ```bash
 npm install
 npm run dev
+
+
+ el servidor correra en : http://localhost:3001
